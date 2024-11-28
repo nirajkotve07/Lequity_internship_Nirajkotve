@@ -19,14 +19,15 @@ This chatbot can:
 Before running the project, ensure you have the following software installed:
 - **Python 3.8 or higher**
 - **Google Drive API access** for document storage
+  
+![Screenshot (104)](https://github.com/user-attachments/assets/b76664cd-5f47-4c3d-ba9a-18fac1327667)
+![Screenshot (105)](https://github.com/user-attachments/assets/2eec7459-89eb-4a5f-b56c-d9cee3586a88)
+![Screenshot (106)](https://github.com/user-attachments/assets/f3315dbc-81bb-44d2-ba60-43fcaf78505c)
 
 
 
+![Uploading Screenshot (106).png…]()
 
-
-![Screenshot (102)](https://github.com/user-attachments/assets/1a267d71-9d55-4425-9fa9-6dbd461e70e9)
-![Screenshot (103)](https://github.com/user-attachments/assets/6ecbf127-3f2f-4a0f-8141-d985fc079fb6)
-![Screenshot (101)](https://github.com/user-attachments/assets/4fdf616f-d4d3-44e3-a2aa-a1aec6490a96)
 
 
 Name : Niraj Kotve
