@@ -21,4 +21,9 @@ Before running the project, ensure you have the following software installed:
 - **Google Drive API access** for document storage
 
 
+
+
+
+![Screenshot (102)](https://github.com/user-attachments/assets/1a267d71-9d55-4425-9fa9-6dbd461e70e9)
+![Screenshot (103)](https://github.com/user-attachments/assets/6ecbf127-3f2f-4a0f-8141-d985fc079fb6)
 ![Screenshot (101)](https://github.com/user-attachments/assets/4fdf616f-d4d3-44e3-a2aa-a1aec6490a96)
